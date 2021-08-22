@@ -1,0 +1,32 @@
+.SpecificCards img{
+    width: 8rem;
+    height: 8rem;
+    padding-left: 2rem;
+    
+  
+  
+  }
+  .SpecificCards h2{
+  text-align: center;
+  max-width: 200px;
+  color: rgb(54, 54, 54);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  .SpecificCards p{
+  
+    width: 200px;
+    text-align: center;
+  }
+  .HeroBar{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: aqua;
+  padding: 2rem ;
+  border-radius: 2rem;
+  flex-wrap: wrap;
+  
+  
+  }

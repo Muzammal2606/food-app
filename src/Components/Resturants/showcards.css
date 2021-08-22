@@ -1,0 +1,20 @@
+.cardsFlex{
+
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin-top: 10rem;
+
+
+
+
+
+}
+
+
+.cards{
+
+    
+    padding: 0 8rem;
+}

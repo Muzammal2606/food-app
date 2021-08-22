@@ -1,0 +1,53 @@
+.chefLogo{
+    width: 55rem;
+    height: 55rem;
+    
+    
+    }
+    
+    .heroFlex{
+    display: flex;
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: 6rem;
+    margin-top: -4rem;
+    
+    
+    
+    }
+    
+    .HeroText{
+    
+      float: right;
+      font-size: 2rem ;
+      margin-top: 18rem;
+      
+    
+    
+      
+    }
+    
+    .HeroText button{
+    
+      border: none;
+      background-color: red;
+      padding: 14px 10px;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+      animation: blob 2s infinite forwards;
+      transform-origin: 50% 50%;
+      
+    }
+    .HeroText button:hover{
+    
+        background-color: rgb(255, 49, 49);
+    }
+    .redText{
+
+        color: red;
+        font-family: 'Rampart One';
+      }    

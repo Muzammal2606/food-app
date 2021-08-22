@@ -1,0 +1,37 @@
+.FooterCol{
+
+    max-width: 200px;
+    padding: 1rem;
+    margin: 1rem;
+    
+    
+    }
+    
+    .footerFlex{
+    
+    
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      background-color: aliceblue;
+      padding: 1rem;
+    
+    
+    }
+    
+    .footerUl li{
+    
+    text-decoration: none;
+    list-style: none;
+    padding: 15px 15px;
+    
+    
+    
+    }
+    
+    .SocialIcons{
+    
+    margin-right: 1.9rem;
+    
+    }
